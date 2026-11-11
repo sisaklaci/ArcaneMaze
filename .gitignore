@@ -1,0 +1,10 @@
+*.class
+*.jar
+build/
+dist/
+*.log
+.idea/
+.vscode/
+*.iml
+Thumbs.db
+Desktop.ini
